@@ -33,12 +33,14 @@ import Profile from './components/Profile'
 import Dashboard from './components/Dashboard'
 import Users from './components/Users'
 import Developer from './components/Developer'
+import NotFound from './components/NotFound'
 
 let routes = [
     {path: '/dashboard',name: 'dashboard',component: Dashboard },
     {path: '/developer',name: 'developer',component: Developer },
     {path: '/profile', component: Profile },
-    {path: '/users',component: Users }
+    {path: '/users',component: Users },
+    {path: '*', component: NotFound},
 ]
 
 const router = new VueRouter({
@@ -100,7 +102,7 @@ Vue.component(
 );
 Vue.component(
     'not-found',
-    require('./components/NotFound.vue').default
+    NotFound
 );
 
 Vue.component('example-component', require('./components/ExampleComponent.vue').default);
