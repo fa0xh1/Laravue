@@ -53,7 +53,7 @@ OPTIONAL REQUIREMENTS:
 # Profile Page (You can edit anything)
 ![profile](https://user-images.githubusercontent.com/47023016/69351428-e808fc80-0cad-11ea-8816-862d1c75518a.png)
 
-## License
+## Versions
 Laravue 1.0
 
 ## License
