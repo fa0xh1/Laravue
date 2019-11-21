@@ -9,9 +9,8 @@ Laravue is an Admin starter template for Laravel 5.7 PHP Framework which include
 1. [Requirements](#requirements)
 2. [Installation](#installation)
 3. [Features](#features)
-4. [Documentation](#documentation)
-5. [Versions](#versions)
-6. [License](#license)
+4. [Versions](#versions)
+5. [License](#license)
 
 ## Requirements
 
@@ -54,4 +53,8 @@ OPTIONAL REQUIREMENTS:
 # Profile Page (You can edit anything)
 ![profile](https://user-images.githubusercontent.com/47023016/69351428-e808fc80-0cad-11ea-8816-862d1c75518a.png)
 
+## License
+Laravue 1.0
 
+## License
+Laraspace is now an open-sourced software licensed under the MIT license.
