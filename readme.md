@@ -1,4 +1,4 @@
-<p align="center"><img height="100px" src="https://user-images.githubusercontent.com/47023016/69350196-ad05c980-0cab-11ea-9c16-6c86834bf8a2.png"></p>
+<p align="center"><img height="4000px" width="100%" src="https://user-images.githubusercontent.com/47023016/69350196-ad05c980-0cab-11ea-9c16-6c86834bf8a2.png"></p>
 
 ## Introduction
 
@@ -39,3 +39,19 @@ OPTIONAL REQUIREMENTS:
 8. Run `npm run dev` for compiling sass and js files.
 9. Laraspace makes use of `Laravel Mix` for compiling sass files and js files (webpack).
 10. You are ready to launch!
+
+## Features
+
+# Login Page (Use default you can modify)
+![login](https://user-images.githubusercontent.com/47023016/69351293-a710e800-0cad-11ea-84f3-77574bffd607.png)
+
+# SignUp Page (Use default you can modify)
+![Screenshot from 2019-11-21 22-22-28](https://user-images.githubusercontent.com/47023016/69351377-cf98e200-0cad-11ea-9018-c0996942550c.png)
+
+# List Users Page
+![list_users](https://user-images.githubusercontent.com/47023016/69351339-b98b2180-0cad-11ea-96ff-2bc943efa18e.png)
+
+# Profile Page (You can edit anything)
+![profile](https://user-images.githubusercontent.com/47023016/69351428-e808fc80-0cad-11ea-8816-862d1c75518a.png)
+
+
