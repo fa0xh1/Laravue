@@ -29,8 +29,8 @@ OPTIONAL REQUIREMENTS:
 ## Installation
 
 1. Run `git clone https://github.com/gh0zialfat1h/Laravue.git`
-2. Using your preferred terminal , go to the laravue folder and run the following command to set a random secure Application Key `php artisan key:generate`
-3. Run `composer install`
+2. Run `composer install`
+3. Using your preferred terminal , go to the laravue folder and run the following command to set a random secure Application Key `php artisan key:generate`
 4. Open `.env` file in your favorite text editor and set the database credentials.
 5. Open `database/seeds/UsersTableSeeder.php` and change the admin's email & password to your preference.
 6. `php artisan migrate --seed` run this command to migrate & seed the database. ( Make sure that you're inside the app's root directory )
