@@ -30,14 +30,15 @@ OPTIONAL REQUIREMENTS:
 
 1. Run `git clone https://github.com/gh0zialfat1h/Laravue.git`
 2. Using your preferred terminal , go to the laravue folder and run the following command to set a random secure Application Key `php artisan key:generate`
-3. Open `.env` file in your favorite text editor and set the database credentials.
-4. Open `database/seeds/UsersTableSeeder.php` and change the admin's email & password to your preference.
-5. `php artisan migrate --seed` run this command to migrate & seed the database. ( Make sure that you're inside the app's root directory )
-6. Install NPM globally if you haven't installed that already , for more information please refer this [Link](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
-7. After installing NPM globally , run `npm install` inside your webroot , it will download all the required dependencies.
-8. Run `npm run dev` for compiling sass and js files.
-9. Laraspace makes use of `Laravel Mix` for compiling sass files and js files (webpack).
-10. You are ready to launch!
+3. Run `composer install`
+4. Open `.env` file in your favorite text editor and set the database credentials.
+5. Open `database/seeds/UsersTableSeeder.php` and change the admin's email & password to your preference.
+6. `php artisan migrate --seed` run this command to migrate & seed the database. ( Make sure that you're inside the app's root directory )
+7. Install NPM globally if you haven't installed that already , for more information please refer this [Link](https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+8. After installing NPM globally , run `npm install` inside your webroot , it will download all the required dependencies.
+9. Run `npm run dev` for compiling sass and js files.
+10. Laraspace makes use of `Laravel Mix` for compiling sass files and js files (webpack).
+11. You are ready to launch!
 
 ## Features
 
