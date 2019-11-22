@@ -16,7 +16,7 @@ class UsersTableSeeder extends Seeder
             'email' => 'admin@admin.com',
             'password' => bcrypt('password'),
             'tipe' => 'super',
-            'photo' => 'profile1.png'
+            'photo' => 'profile1.png',
             'remember_token' => str_random(10),
         ]);
     }
