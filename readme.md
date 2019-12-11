@@ -58,4 +58,4 @@ OPTIONAL REQUIREMENTS:
 Laravue 1.0
 
 ## License
-Laraspace is now an open-sourced software licensed under the MIT license.
+Laravue is now an open-sourced software licensed under the MIT license.
