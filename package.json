@@ -27,7 +27,7 @@
     "dependencies": {
         "admin-lte": "^3.0.0-alpha.2",
         "laravel-vue-pagination": "^2.3.0",
-        "moment": "^2.24.0",
+        "moment": "^2.29.4",
         "sweetalert2": "^8.8.5",
         "vform": "^1.0.0",
         "vue-progressbar": "^0.7.5",
